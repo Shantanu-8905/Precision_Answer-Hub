@@ -120,8 +120,3 @@ All dependencies are included in the `requirements.txt` file.
    - Enter your question in the text input field and click "Submit".
    - If relevant contexts are found, the chatbot will generate an answer.
    - If no contexts match, the app will inform you accordingly.
-
-## License
-This project is licensed under the MIT License.
-# Precision_Answer-Hub
-# Precision_Answer-Hub
